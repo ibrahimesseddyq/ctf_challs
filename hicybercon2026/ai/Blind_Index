@@ -1,0 +1,12 @@
+a:Hidden Investigations
+p:101
+s:67
+d:The platform team runs an internal *similarity lookup* service. You give it a
+text and it tells you how close that text sits, in the house embedding space,
+to a fixed reference direction. Ten **reference records** are filed under your
+team. You know exactly which ten they are (they were never secret), but the
+service will not look a reference record up directly, it never shows you an
+embedding, and the platform team gave your session only a small number of
+lookups after internal tooling flooded it last quarter.
+
+Find where each of your reference records falls on the score scale.

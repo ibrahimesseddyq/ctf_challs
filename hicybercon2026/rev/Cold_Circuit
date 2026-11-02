@@ -1,0 +1,5 @@
+a:Hidden Investigations
+p:63
+s:225
+d:A small standalone checker, `check`, decides whether a flag is right. That's
+the whole interface:

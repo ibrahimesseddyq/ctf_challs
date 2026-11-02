@@ -1,0 +1,8 @@
+a:Hidden Investigations
+p:61
+s:253
+d:A Continuity Relay used by an incident-response team captured evidence during an active incident, then suffered an interrupted operation and left inconsistent audit information. You are an authorized investigator: determine whether a protected evidence seal was improperly exposed, and recover it as proof.
+
+The relay exposes a small JSON operator API and a read-only console. Everything you need is reachable through ordinary use of that interface together with the relay's audit trail — no brute forcing, no guessing hidden names, no races.
+
+The investigator handout (operator API reference, maintenance-note format, and reference transcripts) is attached. No source code is provided. Start an instance to get your own relay; each team gets its own copy and its own flag.

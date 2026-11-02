@@ -1,0 +1,7 @@
+a:Oxnoobsec
+p:78
+s:114
+d:The **Ouroboros Report Builder** is a small internal report tool: sign in,
+save a branding config, render a live preview. That's the whole app. There are
+no user-supplied templates, no `eval`, no obvious injection, and the one
+dangerous thing you're thinking of is already filtered.

@@ -1,0 +1,6 @@
+a:Oxnoobsec
+p:57
+s:358
+d:**Whisper** is a partner API gateway. Clients trade credentials for tokens, and
+privileged clients can *sign* requests to internal endpoints. Only
+`report-signer` may export reports - and you don't have its secret.
