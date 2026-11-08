@@ -1,0 +1,1 @@
+Split Horizon container challenge — player artifacts are generated per-team and served by the container at /files/ (session.pcap, vireo-ctl.dll, command-server.go, manifest.json, audit.log, sigint.txt). Nothing is attached statically.

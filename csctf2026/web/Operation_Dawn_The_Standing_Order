@@ -1,0 +1,10 @@
+a:
+p:289
+s:144
+d:Operation Dawn, annex entry 14, the set's boss. We captured the Ash command relay console and stood it back up. An operator session can read field dispatches, but relay control is held for command, and the standing order sits on a node the console only reaches from the inside.
+
+<br>
+
+Work your way up to command and bring the standing order back out.
+
+Flag format: `CSCTF{...}`

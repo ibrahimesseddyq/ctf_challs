@@ -1,0 +1,12 @@
+a:
+p:120
+s:194
+d:Kessara's coastal fire-authorization console arms a fire order only when two DISTINCT officers approve it — the two-person rule. A hostile insider holds one officer's credentials (VEGA-7). One order is still awaiting authorization: drive it to ARMED with your single credential and read its arming authorization.
+
+<br>
+
+The API is self-describing at `GET /schema`. Your operator key is `opk_vega7_2f4b9c17e0a3` — send it as `Authorization: Bearer <key>`. Interact only with your assigned instance.
+
+<br>
+
+Flag format: **`CSCTF{...}`**

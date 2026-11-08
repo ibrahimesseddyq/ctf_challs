@@ -1,0 +1,12 @@
+a:
+p:120
+s:170
+d:The Vardanne Joint Operations Directorate, coordinating Vardanne's part in the Operation Dawn coalition, runs an old voice exchange whose public board shows the state of its trunk circuits. The duty desk reaches a separate exchange controller over the internal trunk, and that controller can export the current trunk crypto key, but only to a rostered supervisor.
+
+<br>
+
+Reach the controller and export the key. Start your own instance from this page and work only against the address it gives you.
+
+<br>
+
+Flag format: `CSCTF{...}`

@@ -1,0 +1,14 @@
+a:
+p:120
+s:260
+d:Sarnovia's national grid dispatch console signs every substation command with a keyed hash. Sarnovia hosts coalition supply depots for Operation Dawn, which keeps its grid on the Ash Army's list. From an intercepted session, you have one legitimate `STATUS` command, its signature, and the console's signing specification.
+
+<br>
+
+On this isolated training replica, make the console accept a `DISPATCH` command — the order that would trip a transmission breaker — without the key. An accepted `DISPATCH` returns the authorization code. The endpoint and signing specification are at `/`. Do not target real systems.
+
+<br>
+
+Authorization-code format: `CSCTF{...}`
+
+Flag format: `CSCTF{...}`

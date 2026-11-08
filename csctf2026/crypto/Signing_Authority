@@ -1,0 +1,12 @@
+a:
+p:120
+s:261
+d:Torven Ordnance's code-signing service promotes the master arming image only on a valid ECDSA signature (secp256k1) over one exact message — and it will not sign that message for you. But it publishes signed release receipts. Use them to authorize the master image yourself.
+
+<br>
+
+The API is self-describing at `GET /schema`. Interact only with your assigned instance.
+
+<br>
+
+Flag format: **`CSCTF{...}`**

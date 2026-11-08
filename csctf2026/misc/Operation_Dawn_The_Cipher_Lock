@@ -1,0 +1,12 @@
+a:Terminal43
+p:540
+s:288
+d:Operation Dawn, annex entry 12. An Ash field strongbox uses an electronic cipher lock. Investigators recorded its constructed power-trace corpus while known pass-codes were checked against the stored code. Recover that code; no physical hardware is required.
+
+<br>
+
+Attachment: `traces.npz`
+
+<br>
+
+Flag format: **`CSCTF{...}`**

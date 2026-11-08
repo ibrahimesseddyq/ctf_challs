@@ -1,0 +1,12 @@
+a:
+p:291
+s:142
+d:Ash Army operators forged a release warrant at Vesper Quay to divert a relief convoy, and the desk approved it under the sealed courier. The quay serves an allied nation in the Operation Dawn theatre; it logged a different courier, and the raw warrant was not kept.
+
+<br>
+
+Stop the diversion. Only a correction signed by a release the quay actually runs is accepted, and that correction returns the verification code. The API reference is at `/v1/openapi.json` on the desk.
+
+<br>
+
+Flag format: CSCTF{...}

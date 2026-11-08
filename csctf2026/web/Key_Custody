@@ -1,0 +1,12 @@
+a:
+p:120
+s:293
+d:Vardanne Command's operations console signs each session with a JWT (HS256). You hold an analyst session; the objective is on the admin-only route `GET /admin/flag`.
+
+<br>
+
+`GET /token` issues your session, `GET /schema` is self-describing, and the console's public brand assets are served under `/public/`. Elevate to an admin session and read the flag. Interact only with your assigned instance.
+
+<br>
+
+Flag format: **`CSCTF{...}`**

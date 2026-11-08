@@ -1,0 +1,12 @@
+a:
+p:270
+s:280
+d:A seized coordination station was used to get inside Cordon Seven while the national fuel corridor that feeds allied units in Operation Dawn was being rerouted. The operator PIN is gone.
+
+<br>
+
+Reproduce the access path and recover the protected briefing. Everything you need is in the application; do not contact real systems.
+
+<br>
+
+Flag format: `CSCTF{...}`

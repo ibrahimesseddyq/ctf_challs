@@ -1,0 +1,12 @@
+a:
+p:540
+s:168
+d:A HELIOS GRID remote terminal unit (RTU) exposes a single web service console. Behind it is a real emulated ATmega328P running signed control firmware. The unit issues a service token only for a correctly authenticated control directive — and the authentication key is physically unreadable from outside.
+
+<br>
+
+Identify the silicon, bring up the one interface on the bench that still answers, recover the application firmware, and produce a valid authentication tag over a control directive carrying the live nonce. Interact only with your assigned instance.
+
+<br>
+
+Flag format: **`CSCTF{...}`**

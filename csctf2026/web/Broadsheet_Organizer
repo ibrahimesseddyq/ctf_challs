@@ -1,0 +1,12 @@
+a:
+p:851
+s:49
+d:The floor's pages are served through a shared cache, so everyone on shift sees the same copy. The duty editor reviews a board when asked.
+
+<br>
+
+The duty editor is automated. It opens the board you ask it to, stays a few seconds, and leaves. It has no access to the internet, issues GET requests only, and will not reach anything outside this application. There is a limit on how many reviews can be in flight at once.
+
+<br>
+
+Flag format: `CSCTF{...}`

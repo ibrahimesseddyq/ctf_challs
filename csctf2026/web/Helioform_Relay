@@ -1,0 +1,12 @@
+a:
+p:682
+s:113
+d:A Helioform Relay 4.2 appliance sits at the edge of the Kovari National Grid. The operator console is locked, but the mesh protocol documentation is public: a single service exposes an HTTP server, a WebSocket mesh, and an admin console.
+
+<br>
+
+Somewhere between the legacy agent wire and the compliance ledger there is a path the provisioner never closed. Walk the appliance end-to-end and recover the flag. Interact only with your assigned instance.
+
+<br>
+
+Flag format: `CSCTF{...}`

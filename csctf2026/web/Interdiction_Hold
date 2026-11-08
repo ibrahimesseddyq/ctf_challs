@@ -1,0 +1,16 @@
+a:
+p:120
+s:185
+d:A broker acting for a hostile state moved an embargoed dual-use shipment through the Orsvane Border Revenue Service's freight clearance portal, and the interdiction hold on it came off. Nobody on the duty desk can say how.
+
+<br>
+
+You have been given access to the same portal. One consignment in its queue is under an interdiction hold. Get it released and read the clearance token printed on its release certificate.
+
+<br>
+
+The portal documents its interface at `/schema`. Start your own instance from this page and work only against the address it gives you.
+
+<br>
+
+Flag format: **`CSCTF{...}`**

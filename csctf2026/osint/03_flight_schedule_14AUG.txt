@@ -1,0 +1,15 @@
+ПЛАНОВАЯ ТАБЛИЦА ПОЛЁТОВ — FLIGHT SCHEDULE (extract, translated)
+417 OVE, aerodrome KORLEVO — 14.08.2026 — all times MSK
+
+BORT  TYPE        CALLSIGN  TASK                                   DEP-ARR      REMARKS
+----  ----------  --------  -------------------------------------  -----------  ------------------------------
+31    Mi-24P      KORSAR    Area reconnaissance, sector 3          06:10-07:40  -
+34    Mi-24P      VORON     -                                      -            U/S. Main gearbox replacement
+                                                                                (гл. редуктор). Not before 18.08.
+                                                                                /signed: eng. officer/
+37    Mi-24P      SOKOL     Escort for bort 22                     08:55-11:00  -
+21    Mi-8AMTSh   GRACH     Internal cargo, KORLEVO - LIPKI        07:30-09:05  -
+22    Mi-8MTV-5   ZHATVA    External sling load (внешняя подвеска) 09:00-10:55  LZ per separate order
+25    Mi-8MTV-5   BEREG     External sling load                    13:20-14:35  LZ PP-5
+
+NOTE: No flights after 15:00. Thunderstorm warning for the area from 15:00 until 22:00.

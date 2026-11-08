@@ -1,0 +1,24 @@
+LOGISTICS — 417 OVE — working file (translated)
+
+A) CARGO CODE WORDS (valid August)
+   KORZINA  small-arms ammunition
+   MESHOK   rations / drinking water
+   SNOP     portable EW jamming set
+   ZERNO    fuel bladders
+   SENO     medical supplies
+   OVES     spare parts
+
+B) LOADING PLAN 14.08
+   bort 21   OVES    x12   internal   -> LIPKI (aerodrome)
+   bort 22   SNOP    x4    sling      -> PP per order
+   bort 25   MESHOK  x6    sling      -> PP-5
+
+C) LANDING SITES (PP)
+   PP-1  Belaya Balka, meadow by the pond
+   PP-2  Staroselye, pasture below the church    ** CLOSED since 02.08 — mines, see order 88 **
+   PP-3  Lugovoe, former collective farm yard
+   PP-4  Krasny Yar, gravel pit
+   PP-5  Kurgany, beside the grain elevator
+   PP-6  Dubki, forest clearing
+   PP-7  Mirnoe, harvested field west of the dairy farm
+   PP-8  Sosnovka, football pitch

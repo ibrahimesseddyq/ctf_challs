@@ -1,0 +1,16 @@
+a:
+p:540
+s:174
+d:Relay Desk is the Kestrel Signals operations console that Operation Dawn field units use to manage radio crypto-period rotations. Each unit is a tenant and works only its own rotations; a rotation seals into a key bundle once two duty officers sign off. The theatre master key stays in custody with the relay authority.
+
+<br>
+
+An operator tagged `cyberboy` walked an ordinary analyst account all the way up to exporting the theatre master bundle. You hold the same analyst account. Reproduce the walk in your own instance and read the authorization code inside the master bundle.
+
+<br>
+
+Your login for Bramble 14 is operator `a.reyes`, passphrase `relay-bramble-27`. The API is documented at `/api/openapi.json`. Work only with your assigned instance.
+
+<br>
+
+Flag format: **`CSCTF{...}`**

@@ -1,0 +1,12 @@
+a:
+p:540
+s:187
+d:ORRIN-3, Ostreva's imaging satellite, loads its command table from the NSOC ground segment at every uplink pass, and its imagery is shared across the Operation Dawn theatre. An intrusion set NSOC tracks as Greywater swapped the staged manoeuvre table through the vendor delivery pipeline; uplinked as it stands, the table would spend the spacecraft's last station-keeping propellant on an unplanned burn. The validated original is still in the flight-dynamics vault, and the trusted table directory is write-protected.
+
+<br>
+
+The delivery portal offers a vendor intake (it needs an accreditation the analyst desk does not hold), a sandboxed analyst re-submission route, the pipeline journal and the pass schedule. Work out how the hostile package got through, then use the same technique from the analyst route to put the validated table back. Once the pipeline's own audit trail shows the trusted table matching the validated original, the uplink pass receipt is issued, and it carries the pass code. The console is at the portal root, and the delivery schema is published at `/api/v1/schema`.
+
+<br>
+
+Flag format: CSCTF{...}

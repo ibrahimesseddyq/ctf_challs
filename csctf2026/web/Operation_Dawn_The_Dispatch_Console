@@ -1,0 +1,10 @@
+a:
+p:271
+s:138
+d:Operation Dawn, annex entry 08. We captured the Ash field dispatch console and stood it back up. A plain visitor can read and file dispatches, but the command net is locked and its standing order with it.
+
+<br>
+
+The console runs everything past a sanitiser before it touches the database. Get command's standing order.
+
+Flag format: `CSCTF{...}`

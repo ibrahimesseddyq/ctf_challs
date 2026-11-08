@@ -1,0 +1,10 @@
+a:
+p:270
+s:179
+d:Operation Dawn, annex entry 18. The Ash relay only acts on orders that carry command's seal, and command never puts its standing order on the wire.
+
+<br>
+
+We can file field reports to the relay and submit orders to it, but we do not hold command's key. Make the relay give up command's standing order anyway.
+
+Flag format: `CSCTF{...}`

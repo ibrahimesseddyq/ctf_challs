@@ -1,0 +1,12 @@
+a:
+p:120
+s:248
+d:A hostile edit scrambled the Vardanne Civil Continuity Service's emergency relay calendar during a national communications outage. The service keeps civil relays running behind coalition lines in Operation Dawn, and routing cannot be restored until the control room has every activation in the published response window.
+
+<br>
+
+`GET /brief` gives the response window, the membership and ordering rules, and the exact attestation format. `GET /case.ics` returns the exported iCalendar file. Rebuild the activations from the calendar and submit the complete UTC attestation as one JSON object to `POST /attest`; a correct attestation returns the restoration code. Start your own instance from this page and work only against the address it gives you. Relaunching generates a new calendar.
+
+<br>
+
+Flag format: `CSCTF{...}`

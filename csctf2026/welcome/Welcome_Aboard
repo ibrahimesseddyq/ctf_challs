@@ -1,0 +1,10 @@
+a:Chronos Security
+p:100
+s:560
+d:Welcome aboard, operator. Command sent your first transmission encoded. Decode it and report in.
+
+<br>
+
+`Q1NDVEZ7dzNsY29tZV9hYm9hcmRfb3BlcmF0b3JfYTE3Zn0=`
+
+Flag format: `CSCTF{...}`

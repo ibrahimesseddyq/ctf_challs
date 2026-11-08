@@ -1,0 +1,6 @@
+a:
+p:120
+s:134
+d:Operation Dawn, annex entry 13. We seized an Ash fire-control terminal intact and kept its console live. The console is locked down to a handful of operator expressions, but the command relay into it was never cut - orders are still arriving over it. Get onto the terminal and take down the standing order the relay keeps repeating.
+
+Flag format: `CSCTF{...}`

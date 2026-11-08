@@ -1,0 +1,12 @@
+a:
+p:741
+s:100
+d:Cyclone Meren is near landfall on the Astrenian coast, and Astrenia, a coalition partner in Operation Dawn, issues its public warnings through ANWA. A fabricated evacuation order has gone out under ANWA authority, sending two coastal districts inland along Route N2 straight into the surge zone, and every dispatcher role was revoked at 03:11.
+
+<br>
+
+What is left is an observer account on the National Alert Origination Gateway, and the broadcast centre behind it still honours authorised cancellations. Without a dispatcher role, authorise a cancellation of the fabricated order and get it on air; the confirmation code is revealed when the cancellation is broadcast. The observer credential is issued on the console at `/`, and everything else is served live: the schema at `/api/v1/schema`, the authority, key and clock references, the CAP feed and the audit ledger.
+
+<br>
+
+Flag format: CSCTF{...} (case-sensitive)

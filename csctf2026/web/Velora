@@ -1,0 +1,20 @@
+a:
+p:898
+s:2
+d:Operation Dawn — duty web-exploitation task.
+
+<br>
+
+Velora is the release-control plane a partner vendor runs for one of the programme's dispatch systems: a push is held, staged, and only "settled" once the internal fabric agrees. A state-grade actor has been living on its public front for weeks, and the settlement authorisation they are after would let a forged release reach a national system unchecked. You have the same foothold they do: HTTP, from the outside, nothing else.
+
+<br>
+
+Behind the front runs one strictly ordered chain. A layer answers a request only when an `X-Chain` header replays, in order, the proof every earlier layer handed back — and from the fourth layer on the plane also checks that the earlier step genuinely fired. Forge or skip one and the layer is simply not there. Walk it from the public edge to the fabric until the settlement record is written and the last layer returns it.
+
+<br>
+
+Interact only with your assigned instance.
+
+<br>
+
+Flag format: **`CSCTF{...}`**

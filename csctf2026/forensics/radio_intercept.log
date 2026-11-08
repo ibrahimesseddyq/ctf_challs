@@ -1,0 +1,43 @@
+=== Radio Intercept Log ===
+Source: Eastern European Defense Command SIGINT Station
+Date: 2024-08-15
+Frequency Range: 400-450 MHz (drone uplink)
+
+--- Timeline ---
+
+[12:00:00] DRONE-CTRL: 'Valkyrie-9, all systems nominal. Proceed with mission.'
+[12:05:00] KESTREL-7: 'Copy, taking off from base Alpha. Heading north.'
+[12:10:00] KESTREL-7: 'Over Zone-Alpha northern boundary. EO/IR nominal.'
+[12:15:00] DRONE-CTRL: 'Copy. Switch to SIGINT mode at waypoint Bravo.'
+[12:20:00] KESTREL-7: 'En route to WP-Bravo. Wind conditions light, NE 5kt.'
+
+--- ANOMALY DETECTED ---
+
+[12:30:00] GROUND_STATION_3: 'Wait... Valkyrie-9 is NOT at WP-Bravo?'
+[12:30:15] GROUND_STATION_3: 'Telemetry shows it 380m EAST of planned waypoint.'
+[12:30:30] DRONE-CTRL: 'Valkyrie-9, report your position. You missed WP-Bravo.'
+[12:30:45] KESTREL-7: 'Affirmative, WP-Bravo acquired. Continuing to surveillance zone.'
+
+--- THE DEVIATION ---
+
+[12:31:00] GROUND_STATION_3: 'That is NOT what the waypoint data shows!'
+[12:31:15] GROUND_STATION_3: 'WP-Bravo is at 47.2591, 19.0402 — Valkyrie-9 is at ~47.2600, 19.0450'
+[12:31:30] DRONE-CTRL: 'The command center says the waypoint was updated to 47.2600, 19.0450.'
+[12:31:45] GROUND_STATION_3: 'Nobody authorized a waypoint update! This is a discrepancy!'
+[12:32:00] DRONE-CTRL: 'Command server says mission is nominal. Must be sensor error.'
+
+--- LATER ---
+
+[12:45:00] KESTREL-7: 'Surveillance complete. Returning to base.'
+[13:00:00] KESTREL-7: 'Landed at base Alpha. Mission nominal. All objectives met.'
+
+--- SERVER SUMMARY ---
+
+[13:05:00] COMMAND_SERVER: 'Mission Valkyrie-9: COMPLETE. No anomalies detected.'
+[13:05:01] COMMAND_SERVER: 'All waypoints within tolerance. Status: MISSION_SUCCESS.'
+
+--- ANALYSIS NOTE ---
+
+The drone's flight path deviated from the approved waypoint by approximately 380m.
+The command server reported the mission as successful with no anomalies.
+Investigation required: discrepancy between drone telemetry and command center data.

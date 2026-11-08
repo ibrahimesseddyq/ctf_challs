@@ -1,0 +1,12 @@
+a:[Michalina Moszyńska](https://www.linkedin.com/in/michalina-moszy%C5%84ska/)
+p:270
+s:296
+d:Analysts modelled a captured enemy QARVETH-73 field encryptor running its protected AES-128 first round under known plaintexts. The supplied traces are a synthetic corpus generated from the standard Hamming-weight leakage model, with the device's countermeasures preserved. Recover the device key and read the sealed order. The order schedules a dawn shutdown of the border relay chain; recovering it gives defenders time to keep emergency traffic online.
+
+<br>
+
+Handout: `emanation.zip` — 1,793,377 bytes; SHA-256 `f1d1fec3bd303624d6e8f1856fbc9e61bac67e8b758a2ab1cd9ff3cfa0d8c03f`. Submit the recovered order text.
+
+<br>
+
+Flag format: **`CSCTF{...}`**

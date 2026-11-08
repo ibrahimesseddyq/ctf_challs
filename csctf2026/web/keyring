@@ -1,0 +1,12 @@
+a:
+p:120
+s:210
+d:Kestrel ID is the staff sign-on for the Vardanne Joint Operations Directorate, which coordinates Vardanne's part in the Operation Dawn coalition. Liaison officers can request an account and sign in straight away, but the administration console is limited to directorate administrators, and it holds the break-glass recovery key.
+
+<br>
+
+Recover that key. Start your own instance from this page and work only against the address it gives you.
+
+<br>
+
+Flag format: `CSCTF{...}`

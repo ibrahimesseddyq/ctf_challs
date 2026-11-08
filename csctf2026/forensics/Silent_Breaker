@@ -1,0 +1,10 @@
+a:
+p:270
+s:163
+d:A regional substation breaker tripped without warning. You have console access to Velkarion Mobile's signaling investigation tool and a forensic bundle from the substation's IEC 60870-5-104 network. Reconstruct what happened and who is responsible.
+
+<br>
+
+Endpoint: GET /events for the flagged-signaling feed; start at GET /files/ for the case-file index and report contract; submit the completed report to POST /submit.
+
+Flag format: `CSCTF{...}`

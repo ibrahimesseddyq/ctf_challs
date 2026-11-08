@@ -1,0 +1,12 @@
+a:
+p:120
+s:193
+d:Meridian Reporting is the internal reporting portal of the Meridian Continuity Directorate, a coalition partner in the Operation Dawn theatre. Desks file their returns here and most are listed for download, but one controlled packet is withheld from the dashboard and released only to a named distribution list.
+
+<br>
+
+Recover that packet. Start your own instance from this page and work only against the address it gives you.
+
+<br>
+
+Flag format: `CSCTF{...}`

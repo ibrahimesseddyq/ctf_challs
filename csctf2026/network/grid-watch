@@ -1,0 +1,12 @@
+a:
+p:540
+s:169
+d:Vultur Dynamics drones patrol the RGN-Grid high-voltage network. An adversary wants one diverted off its corridor. You have a packet capture of a drone's MAVLink 2 command link and live access to the drone itself. Make the drone accept your own reposition command. Unsigned and replayed commands are refused — the flag returns only from a command the drone actually accepts.
+
+<br>
+
+Interact only with your assigned instance.
+
+<br>
+
+Flag format: **`CSCTF{...}`**

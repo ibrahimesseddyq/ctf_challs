@@ -1,0 +1,16 @@
+a:
+p:593
+s:126
+d:A forged protection setting-group has been loaded into the Keld Ridge substation cluster on Velmara's eastern interconnection, set to trip 2.1 GW and split the eastern grid. Velmara backs the coalition in Operation Dawn, and the same interconnection feeds coalition sites in the region. At 02:48 a compromised engineer account also put Keld Ridge on the dispatcher's quarantine list, so the dispatcher now refuses to send the cluster anything.
+
+<br>
+
+Your observer desk is read-only, and the cluster still has to be isolated. A dispatchable isolation order needs dual control: a requester and an approver, both on the engineer roster and not the same principal. When an order actually reaches the substation gateway, the gateway returns an isolation receipt that carries the clearance code.
+
+<br>
+
+The reliability console is at the root of the dispatcher edge and links the operations API schema at `/api/v1/schema`. Use a client that sends the request path exactly as typed (for example `curl --path-as-is`); some clients rewrite escaped path segments before the request leaves the machine.
+
+<br>
+
+Flag format: CSCTF{...}

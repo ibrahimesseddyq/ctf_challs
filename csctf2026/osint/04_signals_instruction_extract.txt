@@ -1,0 +1,19 @@
+INSTRUCTION ON RADIO DISCIPLINE — 417 OVE — section 4 (extract, translated)
+
+4.1  Crew reports are encrypted with the Vigenère table (Latin alphabet,
+     transliterated Russian text, letters only). The letter X marks a word
+     boundary. The key is the crew's callsign for the day, as assigned in the
+     flight schedule.
+4.2  Message format:
+       date-time group DDHHMM (MSK) / cipher text in groups of five letters /
+       check group = total number of groups, two digits.
+     The last group may be shorter than five letters.
+4.3  Landing sites are referred to by PP number only.
+     NAMING A SETTLEMENT IN A MESSAGE IS PROHIBITED.
+4.4  Cargo is referred to by code word only (see logistics table).
+
+4.5  Glossary
+     DOKLAD report       GRUZ cargo         MESTO/MESTA/MEST piece(s)
+     DOSTAVLEN delivered VREMYA time        BORT tail number     KONEC end
+     ODIN 1  DVA 2  TRI 3  CHETYRE 4  PYAT 5  SHEST 6  SEM 7  VOSEM 8
+     DEVYAT 9  DESYAT 10  SHESTNADTSAT 16  DVADTSAT 20  TRIDTSAT 30
