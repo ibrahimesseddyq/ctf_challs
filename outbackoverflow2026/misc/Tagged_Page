@@ -1,0 +1,7 @@
+a:max
+p:100
+s:72
+d:We hid a secret tracking ID inside the metadata of one of our official event pages.
+Submit the flag after decoding it.
+
+Flag format: `OO{...}`

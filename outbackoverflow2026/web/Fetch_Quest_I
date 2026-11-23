@@ -1,0 +1,8 @@
+a:digitalsurf
+p:100
+s:98
+d:OutbackCorp's IT team built a URL health checker so they can keep tabs on their services. It's only meant for internal use, so nobody really thought about security. Classic.
+
+You've got the link. Poke around and see what's hiding behind the scenes.
+
+Flag format: `oo{...}`

@@ -1,0 +1,6 @@
+a:
+p:200
+s:32
+d:My mate sent me this photo from his trip but won't tell me where he is. Can you figure out where this was taken?
+
+Flag format: oo{lat,long} (rounded to 4 decimal places, e.g. oo{-33.1234,151.5678})

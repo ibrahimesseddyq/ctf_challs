@@ -1,0 +1,8 @@
+a:digitalsurf
+p:100
+s:105
+d:OutbackCorp's IT team set up a remote management terminal so technicians can run basic network diagnostics without SSH access. It's supposed to be locked down to just a few safe commands.
+
+Supposed to be.
+
+Flag format: `OO{...}`

@@ -1,0 +1,33 @@
+======================================================================
+FILE RECOVERY -- SECTOR 4 -- PARTIAL DATA
+======================================================================
+... [CORRUPT] ...
+to minimize footprint, rolling out the LZWQ (Whisper-Q) variant.
+
+Token classes:
+  - Literal byte
+  - Short ref: [dist:4 | len:4]. Length bias is +3.
+  - Long ref: Packed BE 16-bit word (12-bit dist, 4-bit len).
+  - RLE run: [val] [count].
+
+*NOTE FOR DEVS*: dist=0 is valid and acts as a byte-repeater. Overlapping 
+copies must be evaluated strictly byte-by-byte. 
+... [CORRUPT] ...
+
+WHISK-1 architecture notes:
+Registers R0-R7 (16-bit). Stack grows downward from 0xDFFF.
+
+Opcode map:
+  2-byte instructions use a custom ModRM byte.
+  Decode: ((dst & 7) << 5) | ((src & 7) << 2) | (mode & 3)
+  
+  3-byte range: Opcode + Reg + Imm8
+  4-byte range: Memory Ops (Opcode + Reg + Addr16 LE)
+  Control Flow: Offset is signed 16-bit, PC-relative.
+
+... [CORRUPT] ...
+Ensure the state machine advances correctly before polling the generator. 
+If the sensor fails calibration against the expected hardware threshold, 
+the device will loop infinitely. Hardware MMIO is mapped near the top 
+of the address space. 
+... [EOF] ...

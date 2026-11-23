@@ -1,0 +1,6 @@
+p:75
+a:p4ck3t0
+s:124
+d:This year we are so agile, we tracked our Challenges in Kubernetes!
+
+To access the UI, run: kubectl port-forward -n ctf svc/ui 8080:80 then open localhost:8080 in your browser.

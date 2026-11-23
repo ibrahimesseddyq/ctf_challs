@@ -1,0 +1,12 @@
+a:digitalsurf
+p:225
+s:4
+d:A Roblox developer left their `rojo serve` dev server running on localhost and will click any link you send them.
+
+The flag is buried somewhere in their project source. Steal it.
+
+The dev server API lives on port `34872`, the same port Rojo always uses. It only listens on loopback, so you can't hit it directly. But the developer has a browser...
+
+> **Real-world context:** CVE-2026-97875 (discovered by digitalsurf), the Rojo dev server (< 7.7.0) binds to localhost but performs no Host or Origin header validation, allowing DNS rebinding from any web page. Same bug class hit rmcp and dynoxide the same quarter. CVSS 8.1.
+
+Flag format: `OO{...}`

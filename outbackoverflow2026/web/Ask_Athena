@@ -1,0 +1,10 @@
+a:digitalsurf
+p:50
+s:84
+d:OutbackCorp just rolled out "Athena", an internal AI assistant that answers employee questions using the company wiki. The dev team was pretty proud of it — until someone noticed it's reachable from the outside.
+
+They swear the important endpoints are locked down. Maybe they missed one.
+
+> **Real-world context:** This vulnerability class was found on a global bank's bug bounty program affecting an internal AI knowledge base, rated high severity and paid out $1,500.
+
+Flag format: `OO{...}`

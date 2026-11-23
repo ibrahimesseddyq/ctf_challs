@@ -1,0 +1,22 @@
+OUTBACK ORACLE - Encrypted Transmission
+========================================
+
+Intercepted encrypted communication from Outback HQ.
+
+Cipher: Custom 8-round Feistel network (4-byte blocks)
+PRNG: Linear Congruential Generator
+  - multiplier: 1103515245
+  - increment: 12345
+  - modulus: 2^32
+  - output: bits [23:16] of state
+
+Key derivation: 8 round keys generated from PRNG(seed)
+  - Each round key is 16 bits (two consecutive PRNG outputs)
+
+Recovered partial seed information:
+  - High 16 bits of seed: 0xDEAD
+  - Low 16 bits: unknown (brute-forceable)
+
+Known plaintext: flag starts with "OO{"
+
+File format: 4-byte magic "OBCF" | 1 byte rounds | 1 byte block_size | 2 bytes reserved | ciphertext

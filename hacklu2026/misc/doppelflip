@@ -1,0 +1,7 @@
+a:pspaul
+p:103
+s:64
+d:Our container is hardened against cosmic bit flips! Surely there won't be two at the same time...
+
+Get an instance here:
+nc doppelflip.flu.xxx 1337

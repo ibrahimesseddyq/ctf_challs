@@ -1,0 +1,7 @@
+a:Sphynx
+p:100
+s:129
+d:A friendly little program greets you from down under. It doesn't do much
+else... or does it?
+
+Flag format: `OO{...}`

@@ -1,0 +1,12 @@
+a:Enilesi
+p:100
+s:18
+d:I love taking walks here. I wish you could join me too, but can you find where I am?
+
+Flag format: CTF{park_name,locality,country}
+
+All values must be written in lowercase. If a name contains spaces, replace the spaces with _.
+
+Example:
+
+CTF{central_park,new_york,usa}

@@ -1,0 +1,7 @@
+a:pspaul
+p:253
+s:15
+d:One jail is not enough, so we tripled it. Are you a node god?
+
+Solve locally first, then create an instance here:
+nc nodejailjailjail.flu.xxx 1337

@@ -1,0 +1,10 @@
+a:RaduTek
+p:100
+s:58
+d:Walking in a park, you found this old iPod lost on the track. Who would still use such an old piece of technology today? Take it home and find out what it's owner's been up to.
+
+Figure out what song the owner's been playing on repeat, and even what laptop they were using at the time.
+
+The flag is `CTFAC{song:brand}`, with the song name and the laptop brand.
+
+Example: `CTFAC{Heathens:MacBook}`

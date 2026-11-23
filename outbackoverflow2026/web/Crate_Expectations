@@ -1,0 +1,4 @@
+a:
+p:200
+s:21
+d:PageScope is a sleek URL preview service. It says it validates all URLs, but does it validate where they end up? A recently disclosed vulnerability in a popular Rust crate might hold the key.
