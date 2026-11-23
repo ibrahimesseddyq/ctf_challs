@@ -8,3 +8,4 @@ Challenge info (author, points, solves, description) and handouts collected from
 - [ctfac2026finals](ctfac2026finals/) — CTF@AC26 - Finals
 - [h4ckc0n2026](h4ckc0n2026/) — h4ckc0n 2026
 - [outbackoverflow2026](outbackoverflow2026/) — Outback Overflow
+- [pinkctf2026](pinkctf2026/) — PINK+ CTF 2026
